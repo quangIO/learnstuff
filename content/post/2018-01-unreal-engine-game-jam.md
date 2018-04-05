@@ -38,7 +38,7 @@ If you don't know how to start, let's break down the idea:
 Everything sounds easy so far. Let's get to work.
 
 ### Basic setup:
-Well, trivial task, selecting Twin Stick Shooter template seems like no-brainer. For more flexible, it'd be better to start with C++ template because migrating Blueprint projects to C++ project is a tedious task but you don't really need to migrate from C++ to Blueprint. You can just use Blueprint if you think C++ is hard. However, trust me, writing game logic in C++ is beginner friendly too and it can be cleaner than spahetti Blueprint code in some cases.
+Well, trivial task, selecting Twin Stick Shooter template seems like no-brainer. For more flexible, it'd be better to start with C++ template because migrating Blueprint projects to C++ project is a tedious task but you don't really need to migrate from C++ to Blueprint. You can just use Blueprint if you think C++ is hard. However, trust me, writing game logic in C++ is beginner friendly too and it can be cleaner than spaghetti Blueprint code in some cases.
 
 ### Ray-tracing
 A simple trick is creating an invisible plane. This plane will not have any collision with game objects. It blocks `visibility` channel only so when we do the raytracing from the camera, we can have a hit event. Break this hit and we have the position. We can make it better by using a custom channel instead of `visibility`.
@@ -87,7 +87,7 @@ public:
 
 
 ### Gravity:
-I want some objects get affected by gravity, some won't. So let's create a component, every object having this component will get effected by gravity. We can just use Newton's formula for gravity. However, the world here is *unreal*, I don't trust the constant factor G, and the distant we see is just an illustion, so the formula is something like this where we can edit those parameters p_something: $$F = p_f \sum \frac {mM}{(r * p_r)^2} |r|$$
+I want some objects get affected by gravity, some won't. So let's create a component, every object having this component will get effected by gravity. We can just use Newton's formula for gravity. However, the world here is *unreal*, I don't trust the constant factor G, and the distant we see is just an illusion, so the formula is something like this where we can edit those parameters p_something: $$F = p_f \sum \frac {mM}{(r * p_r)^2} |r|$$
 
 ```
 void UOrbitalComponent::TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction)
@@ -124,5 +124,7 @@ The structure looks like this but you should setup event type acordingly (To Ser
 <iframe src="https://blueprintue.com/render/60kflqgh" width="100%" height = "600" scrolling="no"></iframe>
 
 This is the end for now. This blog will get update gradually for more detailed explanation when I am free if needed.
+
+(outdated code but contain some main logic can be found here https://github.com/quangIO/gamejam)
 
 
