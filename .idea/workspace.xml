@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73f5f0d2-fa18-41d8-9825-81e39e7180c9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/post/2018-01-unreal-engine-game-jam.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/2018-01-unreal-engine-game-jam.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/partials/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/head.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/404-southpark.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/favicon.ico.zip" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,21 +25,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.toml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="config.toml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config.toml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
+            <state relative-caret-position="110">
               <caret line="49" column="25" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-01-unreal-engine-game-jam.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2018-01-unreal-engine-game-jam.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/content/post/2018-01-unreal-engine-game-jam.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="170">
-                <caret line="9" column="135" selection-start-line="9" selection-start-column="135" selection-end-line="9" selection-end-column="135" />
+              <first_editor relative-caret-position="384">
+                <caret line="125" column="116" selection-start-line="125" selection-start-column="116" selection-end-line="125" selection-end-column="116" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -89,7 +84,7 @@
         <entry file="file://$PROJECT_DIR$/layouts/partials/head.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+              <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -131,6 +126,7 @@
       <find>when the</find>
       <find>og:image</find>
       <find>favicon</find>
+      <find>fav</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -152,9 +148,9 @@
         <option value="$PROJECT_DIR$/static/css/main.css" />
         <option value="$PROJECT_DIR$/static/admin/config.yml" />
         <option value="$PROJECT_DIR$/content/post/2018-02-Flutter-and-Kotlin.md" />
-        <option value="$PROJECT_DIR$/content/post/2018-01-unreal-engine-game-jam.md" />
         <option value="$PROJECT_DIR$/layouts/partials/head.html" />
         <option value="$PROJECT_DIR$/config.toml" />
+        <option value="$PROJECT_DIR$/content/post/2018-01-unreal-engine-game-jam.md" />
       </list>
     </option>
   </component>
@@ -273,12 +269,12 @@
       <updated>1522904893191</updated>
       <workItem from="1522904895402" duration="14079000" />
       <workItem from="1522919022317" duration="8902000" />
-      <workItem from="1522930864630" duration="2854000" />
+      <workItem from="1522930864630" duration="3049000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25835000" />
+    <option name="totallyTimeSpent" value="26030000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -577,22 +573,10 @@
     <entry file="file://$PROJECT_DIR$/static/img/favicon.ico">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/post/2018-01-unreal-engine-game-jam.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="170">
-            <caret line="9" column="135" selection-start-line="9" selection-start-column="135" selection-end-line="9" selection-end-column="135" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/layouts/partials/head.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -605,8 +589,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config.toml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
+        <state relative-caret-position="110">
           <caret line="49" column="25" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/post/2018-01-unreal-engine-game-jam.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="384">
+            <caret line="125" column="116" selection-start-line="125" selection-start-column="116" selection-end-line="125" selection-end-column="116" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
         </state>
       </provider>
     </entry>

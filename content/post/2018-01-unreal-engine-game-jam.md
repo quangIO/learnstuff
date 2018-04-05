@@ -9,10 +9,7 @@ share_img: https://i.imgur.com/1BWFF8u.jpg
 
 Last week 2 inexperienced "game dev" and I made a game for a 24 hour game jam at NYU thanks to UE4 (and artists who make their artwork publicly available). This is the demo:
 
-<link rel="stylesheet" href="https://cdn.plyr.io/3.1.0/plyr.css">
-<video id="player" playsinline controls>
-    <source src="/media/ue4-demo.mp4" type="video/mp4">
-</video>
+<div style="width: 100%; height: 0px; position: relative; padding-bottom: 56.250%;"><iframe src="https://streamable.com/s/q91un/xzsusy" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div>
 
 I have seen a lot of people saying using Unity is easier than UE4 for small projects but to me UE4 interface is very understandable and makes me feel that *I am the one in control*. On the contrary, one of my teammate, after looking at UE4 for the first time, said he was confused. This tutorial will try to explain you how to have a "UE4" mindset: be lazy, don't try to know everything, just learn what you need.
 
@@ -127,8 +124,5 @@ The structure looks like this but you should setup event type acordingly (To Ser
 <iframe src="https://blueprintue.com/render/60kflqgh" width="100%" height = "600" scrolling="no"></iframe>
 
 This is the end for now. This blog will get update gradually for more detailed explanation when I am free if needed.
-
-<script src="https://cdn.plyr.io/3.1.0/plyr.js"></script>
-<script>const player = new Plyr('#player');</script>
 
 
