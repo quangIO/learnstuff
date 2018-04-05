@@ -7,7 +7,7 @@ share_img: https://i.imgur.com/1BWFF8u.jpg
 ---
 
 
-Last week 2 inexperienced "game dev" and I made a game for a 24 hour game jam at NYU thanks to UE4 (and artists who make their artwork publicly available). This is the demo:
+Last week 2 inexperienced "game devs" and I made a game for a 24 hour game jam at NYU thanks to UE4 (and artists who make their artworks publicly available). This is the demo:
 
 <div style="width: 100%; height: 0px; position: relative; padding-bottom: 56.250%;"><iframe src="https://streamable.com/s/q91un/xzsusy" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div>
 
@@ -123,8 +123,8 @@ ACustomGameState::ACustomGameState()
 The structure looks like this but you should setup event type acordingly (To Server, Multicast)
 <iframe src="https://blueprintue.com/render/60kflqgh" width="100%" height = "600" scrolling="no"></iframe>
 
-This is the end for now. This blog will get update gradually for more detailed explanation when I am free if needed.
+This is the end for now. This blog will get updates gradually for more detailed explanation when I am free.
 
-(outdated code but contain some main logic can be found here https://github.com/quangIO/gamejam)
+(outdated code but contains some main logic can be found here https://github.com/quangIO/gamejam)
 
 

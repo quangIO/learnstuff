@@ -38,8 +38,8 @@
         <entry file="file://$PROJECT_DIR$/content/post/2018-01-unreal-engine-game-jam.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="391">
-                <caret line="127" lean-forward="true" selection-start-line="127" selection-end-line="127" />
+              <first_editor relative-caret-position="323">
+                <caret line="125" column="106" selection-start-line="125" selection-start-column="106" selection-end-line="125" selection-end-column="106" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -263,12 +263,12 @@
       <updated>1522904893191</updated>
       <workItem from="1522904895402" duration="14079000" />
       <workItem from="1522919022317" duration="8902000" />
-      <workItem from="1522930864630" duration="3842000" />
+      <workItem from="1522930864630" duration="5192000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26823000" />
+    <option name="totallyTimeSpent" value="28173000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -591,8 +591,8 @@
     <entry file="file://$PROJECT_DIR$/content/post/2018-01-unreal-engine-game-jam.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="391">
-            <caret line="127" lean-forward="true" selection-start-line="127" selection-end-line="127" />
+          <first_editor relative-caret-position="323">
+            <caret line="125" column="106" selection-start-line="125" selection-start-column="106" selection-end-line="125" selection-end-column="106" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
