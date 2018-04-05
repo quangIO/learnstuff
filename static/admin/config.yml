@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: repo
+  repo: quangio/learnstuff
   branch: master
   
 media_folder: "static/uploads"
