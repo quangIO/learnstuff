@@ -47,8 +47,8 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
   subtitle = "Build a beautiful and simple website in minutes"
-  logo = "img/avatar-icon.png"
-  favicon = "img/favicon.ico"
+  logo = "img/favicon.png"
+  favicon = "img/favicon.png"
   dateFormat = "January 2, 2006"
   commit = false
   rss = true

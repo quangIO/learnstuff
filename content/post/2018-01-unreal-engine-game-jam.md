@@ -3,6 +3,7 @@ title: Making multi-player space shooter game in 1 day with Unreal Engine
 subtitle: Not really but close (Tutorial to get you start with multi-player, C++, and packaging)
 date: 2018-04-04
 tags: ["game development", "Unreal Engine", "C++"]
+share_img: https://i.imgur.com/1BWFF8u.jpg
 ---
 
 
