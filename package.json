@@ -10,7 +10,7 @@
     "cms:delete": "gulp cms-delete"
   },
   "dependencies": {
-    "babel-core": "6.26.0",
+    "babel-core": "6.26.3",
     "babel-preset-es2015": "6.24.1",
     "browser-sync": "2.23.6",
     "gulp": "3.9.1",
